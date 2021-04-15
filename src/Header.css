@@ -1,0 +1,14 @@
+.header .intro-bar {
+    height: 50px;
+}
+
+.header .menu-bar {
+    height: 50px;
+    background-color: black;
+    color: white;
+}
+
+.header .menu-bar .logo {
+    height: 40px;
+    width: 40px;
+}
